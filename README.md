@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 My journey as a developer began with an interest in what meets the eye. Initially, my focus was on the interface how an application feels in the hands of users through UI/UX design in Figma. I enjoyed the visual process, but over time I felt something was missing. I felt like an architect who could only draw the facade of a building, but didn't understand how the foundations and pillars supported the load.<br>
 
 That dissatisfaction sparked the biggest evolution in my technical career.<br>
