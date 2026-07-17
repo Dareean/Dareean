@@ -360,7 +360,7 @@ Translated technical specifications from mentors into responsive front-end inter
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dareean/Dareean/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+ <img src="https://raw.githubusercontent.com/Dareean/Dareean/output/snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
