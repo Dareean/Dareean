@@ -14,11 +14,11 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Dareean)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://dareean.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dareean-ahmad-raffi-mardin-72247a229/)
 [![Gmail](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmardin@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dareean)
-
+[![GitHub](https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://instagram.com/darenrafi)
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dareean&color=8b5cf6&style=flat-square&label=Profile+Views)
