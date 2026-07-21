@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Dareean%20Ahmad%20Raffi%20Mardin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Engineer%20%7C%20UI%2FUX%20Designer%20%7C%20Product-Minded%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Dareean">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+web+experiences;React+%2B+Next.js+%2B+TypeScript+specialist;UI%2FUX+designer+turned+full-stack+engineer;Leading+I-FEST+2026+%40+Universitas+Tadulako" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+web+experiences;React+%2B+Next.js+%2B+TypeScript+specialist;UI%2FUX+designer+turned+full-stack+engineer;Bringin+stories+to+life+one+single+pixel+at+a+time" alt="Typing SVG" />
 </a>
 
 <br/>
